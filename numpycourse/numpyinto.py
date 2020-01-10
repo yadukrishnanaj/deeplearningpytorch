@@ -1,0 +1,19 @@
+import numpy as np
+a=np.arange(1,4)
+print(a)
+print(type(a))
+c=np.array([1,2,3,4])
+print(c)
+#mathematicaloperations
+sample_array=np.array([1,2,3,4,5])
+print(np.sin(sample_array))
+print(np.log(sample_array))
+print(np.exp(sample_array))
+print(np.power(sample_array,4))
+#multiarray
+x=np.arange(1,3)
+y=np.arange(1,3)
+z=np.arange(1,3)
+print(np.array([x,y,z]))
+w=np.linspace(1,30,10)
+print(w)
