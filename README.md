@@ -1,4 +1,4 @@
-##pytorchdeeplearnig
+# pytorchdeeplearnig
 
 os:ubuntu 18.04
 cuda 10.1
